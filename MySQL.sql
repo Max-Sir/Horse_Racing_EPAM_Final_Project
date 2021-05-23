@@ -5,7 +5,7 @@ create table bet_type
     bet_name varchar(250) not null
 );
 
-create table horse 
+create table horse
 (
     id          int auto_increment
         primary key,
